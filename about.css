@@ -20,7 +20,7 @@
 }
 
 .achievement_card{
-    background: var(--color-primary);
+    background: #ffc000;
     color: rgb(53, 52, 52);
     padding: 1.6rem;
     border: 2px solid black;
